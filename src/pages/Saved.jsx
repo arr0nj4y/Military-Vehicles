@@ -10,22 +10,25 @@ export default function Saved() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    listVehicles().then((data) => {
-      setVehicles(data)
-      setLoading(false)
-    })
+    listVehicles()
+      .then(setVehicles)
+      .catch(() => setVehicles([]))
+      .finally(() => setLoading(false))
   }, [])
 
   const savedVehicles = vehicles.filter((v) => saved.includes(v.id))
 
   return (
     <div>
-      <header className="safe-top bg-neutral-900 px-5 pb-5 pt-6 text-white">
+      <header className="safe-top bg-[#18201d] px-5 pb-6 pt-6 text-white">
         <div className="flex items-center gap-2">
-          <Bookmark className="h-6 w-6" strokeWidth={2.5} />
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/10">
+            <Bookmark className="h-5 w-5 text-[#d5dfcf]" strokeWidth={2.2} />
+          </div>
           <div>
-            <h1 className="text-xl font-extrabold leading-tight">Saved</h1>
-            <p className="text-xs text-neutral-400">
+            <p className="military-label text-[9px] font-bold uppercase text-[#9eac9f]">Personal shortlist</p>
+            <h1 className="mt-1 text-[22px] font-extrabold leading-tight tracking-[-0.03em]">Saved</h1>
+            <p className="mt-1 text-xs text-[#aab5ac]">
               {savedVehicles.length} saved vehicles
             </p>
           </div>

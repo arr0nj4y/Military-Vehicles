@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The ArmoredHub API host has no HTTPS, so allow plain HTTP for that domain only. -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">bunsdomain.duckdns.org</domain>
+    </domain-config>
+</network-security-config>

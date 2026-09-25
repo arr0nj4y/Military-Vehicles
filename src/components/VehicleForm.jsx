@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { X } from 'lucide-react'
-import { CATEGORIES, ERAS } from '../data/mockVehicles.js'
+import { CATEGORIES, ERAS } from '../data/options.js'
 
 const EMPTY = {
   name: '',
@@ -21,12 +21,14 @@ const EMPTY = {
 export default function VehicleForm({ open, initial, onSubmit, onClose }) {
   const [form, setForm] = useState(EMPTY)
   const [saving, setSaving] = useState(false)
+  const [error, setError] = useState('')
   const isEdit = Boolean(initial && initial.id)
 
   useEffect(() => {
     if (open) {
       setForm({ ...EMPTY, ...(initial || {}) })
       setSaving(false)
+      setError('')
     }
   }, [open, initial])
 
@@ -38,8 +40,11 @@ export default function VehicleForm({ open, initial, onSubmit, onClose }) {
     e.preventDefault()
     if (!form.name.trim()) return
     setSaving(true)
+    setError('')
     try {
       await onSubmit(form)
+    } catch {
+      setError("Couldn't save. Check your connection and try again.")
     } finally {
       setSaving(false)
     }
@@ -64,8 +69,8 @@ export default function VehicleForm({ open, initial, onSubmit, onClose }) {
         onClick={saving ? undefined : onClose}
         aria-hidden
       />
-      <div className="relative flex max-h-[92vh] w-full max-w-md flex-col rounded-t-3xl bg-white">
-        <div className="flex items-center justify-between border-b border-neutral-100 px-5 py-4">
+      <div className="relative flex max-h-[92vh] w-full max-w-md flex-col rounded-t-3xl bg-[#f8faf8]">
+        <div className="flex items-center justify-between border-b border-[#e5e9e5] px-5 py-4">
           <h2 className="text-base font-bold text-neutral-900">
             {isEdit ? 'Edit Vehicle' : 'Add Vehicle'}
           </h2>
@@ -198,6 +203,9 @@ export default function VehicleForm({ open, initial, onSubmit, onClose }) {
         </form>
 
         <div className="border-t border-neutral-100 px-5 py-4 safe-bottom">
+          {error && (
+            <p className="mb-2 text-center text-xs font-semibold text-red-600">{error}</p>
+          )}
           <button
             onClick={handleSubmit}
             disabled={saving}

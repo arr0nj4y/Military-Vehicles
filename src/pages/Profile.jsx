@@ -1,30 +1,20 @@
-import { useState } from 'react'
-import { User, ShieldCheck, RotateCcw, Info } from 'lucide-react'
+import { User, ShieldCheck, Info } from 'lucide-react'
 import { useAuth } from '../lib/useAuth.jsx'
-import { resetVehicles } from '../lib/api.js'
 
 export default function Profile() {
   const { isAdmin, toggleAdmin } = useAuth()
-  const [resetting, setResetting] = useState(false)
-  const [resetDone, setResetDone] = useState(false)
-
-  const handleReset = async () => {
-    setResetting(true)
-    setResetDone(false)
-    await resetVehicles()
-    setResetting(false)
-    setResetDone(true)
-    setTimeout(() => setResetDone(false), 2000)
-  }
 
   return (
     <div>
-      <header className="safe-top bg-neutral-900 px-5 pb-5 pt-6 text-white">
+      <header className="safe-top bg-[#18201d] px-5 pb-6 pt-6 text-white">
         <div className="flex items-center gap-2">
-          <User className="h-6 w-6" strokeWidth={2.5} />
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/10">
+            <User className="h-5 w-5 text-[#d5dfcf]" strokeWidth={2.2} />
+          </div>
           <div>
-            <h1 className="text-xl font-extrabold leading-tight">Profile</h1>
-            <p className="text-xs text-neutral-400">
+            <p className="military-label text-[9px] font-bold uppercase text-[#9eac9f]">Operator settings</p>
+            <h1 className="mt-1 text-[22px] font-extrabold leading-tight tracking-[-0.03em]">Profile</h1>
+            <p className="mt-1 text-xs text-[#aab5ac]">
               Role: {isAdmin ? 'Administrator' : 'Viewer'}
             </p>
           </div>
@@ -61,30 +51,6 @@ export default function Profile() {
           </button>
         </div>
 
-        {/* Reset catalog */}
-        <button
-          onClick={handleReset}
-          disabled={resetting}
-          className="flex w-full items-center justify-between rounded-2xl bg-white p-4 ring-1 ring-neutral-100 disabled:opacity-60"
-        >
-          <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-full bg-neutral-100">
-              <RotateCcw className="h-5 w-5 text-neutral-700" />
-            </div>
-            <div className="text-left">
-              <p className="text-sm font-semibold text-neutral-900">
-                Reset Catalog
-              </p>
-              <p className="text-xs text-neutral-500">
-                Restore the original demo vehicles
-              </p>
-            </div>
-          </div>
-          <span className="text-xs font-semibold text-neutral-400">
-            {resetting ? 'Resetting…' : resetDone ? 'Done' : ''}
-          </span>
-        </button>
-
         {/* About */}
         <div className="rounded-2xl bg-white p-4 ring-1 ring-neutral-100">
           <div className="flex items-center gap-2 text-neutral-400">
@@ -94,8 +60,8 @@ export default function Profile() {
             </span>
           </div>
           <p className="mt-2 text-sm text-neutral-600">
-            ArmoredHub — Military vehicle catalog. Running on local mock data
-            (offline). Version 1.0.0
+            ArmoredHub — Military vehicle catalog. Connected to the live
+            ArmoredHub database. Version 1.1.0
           </p>
         </div>
       </div>

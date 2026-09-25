@@ -4,6 +4,11 @@
 
 :root {
   color-scheme: light;
+  --ink: #18201d;
+  --muted: #6d7772;
+  --paper: #f5f7f4;
+  --line: #e5e9e5;
+  --olive: #4d6252;
 }
 
 html,
@@ -15,11 +20,42 @@ body,
 body {
   margin: 0;
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background-color: #f5f5f5;
-  color: #171717;
+  background: #dfe5df;
+  color: var(--ink);
   -webkit-font-smoothing: antialiased;
   /* Respect device safe areas (notch / gesture bar) on the phone. */
   overscroll-behavior-y: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app-background {
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(rgba(61, 79, 65, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(61, 79, 65, 0.035) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.app-shell {
+  box-shadow: 0 0 0 1px rgba(24, 32, 29, 0.04), 0 28px 80px rgba(24, 32, 29, 0.12);
+}
+
+.military-label {
+  letter-spacing: 0.16em;
+}
+
+.image-wash {
+  background: linear-gradient(135deg, #26312b 0%, #627065 100%);
 }
 
 /* Hide scrollbars but keep scrolling (mobile feel). */

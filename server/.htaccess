@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^military_vehicles/?$ military_vehicles.php [NC,L]
+RewriteRule ^military_vehicles/([0-9]+)/?$ military_vehicles.php?id=$1 [NC,L]
+SetEnvIf Authorization .+ HTTP_AUTHORIZATION=$0

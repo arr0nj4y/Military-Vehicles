@@ -24,3 +24,6 @@ yarn-error.log*
 .DS_Store
 .vscode/
 .idea/
+
+# Server backups (contain DB credentials)
+server/backup-original/connection.php

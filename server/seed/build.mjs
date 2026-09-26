@@ -1,4 +1,5 @@
-// Looks up a Wikipedia photo for every vehicle in vehicles.mjs, then writes:
+// Looks up a photo for every vehicle in vehicles.mjs (the Commons file picked in
+// images.mjs, else the Wikipedia article's lead image), then writes:
 //   seed/vehicles.json         – data uploaded to the server by the seeding step
 //   ../military_vehicles.sql   – full table rebuild for phpMyAdmin
 // Run with: node server/seed/build.mjs
@@ -7,6 +8,7 @@ import { writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { VEHICLES } from './vehicles.mjs'
+import { IMAGES } from './images.mjs'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const UA = 'ArmoredHubSeed/1.0 (student project; https://github.com/arr0nj4y/Military-Vehicles)'
@@ -33,28 +35,35 @@ async function fetchImages(titles) {
   return images
 }
 
-// Direct Wikimedia Commons files ("File:...") for articles without a usable photo.
+// Direct Wikimedia Commons files ("File:..."), 50 per request to stay under rate limits.
 async function fetchCommonsFiles(titles) {
   const images = {}
-  for (const title of titles) {
+  for (let i = 0; i < titles.length; i += 50) {
+    const batch = titles.slice(i, i + 50)
     const url =
       'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
-      '&prop=imageinfo&iiprop=url&iiurlwidth=800&titles=' + encodeURIComponent(title)
+      '&prop=imageinfo&iiprop=url&iiurlwidth=800&titles=' + encodeURIComponent(batch.join('|'))
     const res = await fetch(url, { headers: { 'User-Agent': UA } })
-    const page = Object.values((await res.json()).query.pages)[0]
-    if (page.imageinfo) images[title] = page.imageinfo[0].thumburl
+    const json = await res.json()
+    const alias = {}
+    for (const n of json.query.normalized || []) alias[n.to] = n.from
+    for (const page of Object.values(json.query.pages)) {
+      if (page.imageinfo) images[alias[page.title] || page.title] = page.imageinfo[0].thumburl
+    }
   }
   return images
 }
 
-const titles = [...new Set(VEHICLES.map((v) => v.wiki))]
+// A hand-picked Commons photo from images.mjs wins over the article's lead image.
+const photoTitle = (v) => IMAGES[v.name] || v.wiki
+const titles = [...new Set(VEHICLES.map(photoTitle))]
 const images = {
   ...(await fetchImages(titles.filter((t) => !t.startsWith('File:')))),
   ...(await fetchCommonsFiles(titles.filter((t) => t.startsWith('File:')))),
 }
 
-const rows = VEHICLES.map(({ wiki, ...v }) => ({ ...v, image_url: images[wiki] || '' }))
-const missing = VEHICLES.filter((v) => !images[v.wiki]).map((v) => v.name)
+const rows = VEHICLES.map(({ wiki, ...v }) => ({ ...v, image_url: images[photoTitle({ ...v, wiki })] || '' }))
+const missing = VEHICLES.filter((v) => !images[photoTitle(v)]).map((v) => v.name)
 
 writeFileSync(join(here, 'vehicles.json'), JSON.stringify(rows, null, 2))
 

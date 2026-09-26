@@ -11,7 +11,7 @@
     "armament": "120mm M256 smoothbore gun, 2x 7.62mm, 1x 12.7mm",
     "description": "The M1A2 Abrams is the main battle tank of the United States Army, featuring advanced composite armor, a 120mm smoothbore cannon, and a gas-turbine engine.",
     "admin_note": "Export variant restrictions apply. Verify FMS documentation.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/M1A2_SEP_v3.jpg/960px-M1A2_SEP_v3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m1a2-abrams.webp"
   },
   {
     "name": "Leopard 2A7",
@@ -25,7 +25,7 @@
     "armament": "120mm Rheinmetall L/55 smoothbore gun, 2x 7.62mm MG3",
     "description": "The Leopard 2A7 is a third-generation German main battle tank, widely regarded for its firepower, protection, and mobility across NATO forces.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Tank_Leopard_2A7_NATO_Days_2022.jpg/960px-Tank_Leopard_2A7_NATO_Days_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/leopard-2a7.webp"
   },
   {
     "name": "T-90M Proryv",
@@ -39,7 +39,7 @@
     "armament": "125mm 2A46M-5 smoothbore gun, Kord 12.7mm, PKTM 7.62mm",
     "description": "The T-90M is a modernized Russian main battle tank with the Relikt explosive reactive armor package and an upgraded fire-control system.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/T-90M.jpg/960px-T-90M.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-90m-proryv.webp"
   },
   {
     "name": "M2A3 Bradley",
@@ -53,7 +53,7 @@
     "armament": "25mm M242 Bushmaster, TOW missile launcher, 7.62mm coax",
     "description": "The M2 Bradley is a tracked infantry fighting vehicle that transports a squad while providing fire support with its autocannon and anti-tank missiles.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/140505-A-HE359-132_%2813934066530%29_%28cropped%29.jpg/960px-140505-A-HE359-132_%2813934066530%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m2a3-bradley.webp"
   },
   {
     "name": "BMP-3",
@@ -67,7 +67,7 @@
     "armament": "100mm 2A70 gun, 30mm 2A72 autocannon, 3x 7.62mm PKT",
     "description": "The BMP-3 is a Soviet-designed amphibious infantry fighting vehicle with a uniquely heavy mixed-caliber armament package for its class.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Army2016demo-011.jpg/960px-Army2016demo-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bmp-3.webp"
   },
   {
     "name": "M1126 Stryker",
@@ -81,7 +81,7 @@
     "armament": "12.7mm M2 or 40mm Mk19 grenade launcher (RWS)",
     "description": "The Stryker is an eight-wheeled armored personnel carrier providing rapid, protected mobility for infantry squads on the modern battlefield.",
     "admin_note": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Stryker_ICV_front_q.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    "image_url": "vehicles/m1126-stryker.webp"
   },
   {
     "name": "M109A7 Paladin",
@@ -95,7 +95,7 @@
     "armament": "155mm M284 howitzer, 12.7mm M2 machine gun",
     "description": "The M109A7 Paladin is a self-propelled 155mm howitzer providing indirect fire support with improved survivability and automated loading.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/M109A7_Paladin_self-propelled_howitzer.jpg/960px-M109A7_Paladin_self-propelled_howitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m109a7-paladin.webp"
   },
   {
     "name": "Tiger I",
@@ -109,7 +109,7 @@
     "armament": "88mm KwK 36 L/56 gun, 2x 7.92mm MG 34",
     "description": "The Tiger I was a German heavy tank of World War II, renowned for its powerful 88mm gun and thick frontal armor that dominated early engagements.",
     "admin_note": "Historical reference entry — not in active service.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Panzerkampfwagen_VI_Ausfuhrung_E_%28Tiger_131%29_front-left_2017_Bovington.jpg/960px-Panzerkampfwagen_VI_Ausfuhrung_E_%28Tiger_131%29_front-left_2017_Bovington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/tiger-i.webp"
   },
   {
     "name": "Challenger 2",
@@ -123,7 +123,7 @@
     "armament": "120mm L30A1 rifled gun, 7.62mm L94A1 chain gun, 7.62mm L37A2 MG",
     "description": "The Challenger 2 is the British Army's main battle tank, known for its Dorchester armour and its service in the Balkans and Iraq.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg/960px-Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/challenger-2.webp"
   },
   {
     "name": "Leclerc",
@@ -137,7 +137,7 @@
     "armament": "120mm CN120-26/52 smoothbore gun with autoloader, 12.7mm M2HB coax, 7.62mm MG",
     "description": "The Leclerc is France's main battle tank, featuring an autoloader that allows a three-person crew and a high-performance hyperbar diesel engine.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Leclerc-IMG_1744-b.jpg/960px-Leclerc-IMG_1744-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/leclerc.webp"
   },
   {
     "name": "Merkava Mk 4",
@@ -151,7 +151,7 @@
     "armament": "120mm MG253 smoothbore gun, 60mm mortar, 3x 7.62mm MG",
     "description": "The Merkava Mk 4 places its engine at the front for extra crew protection and has a rear hatch that can carry infantry or casualties. It is fitted with the Trophy active protection system.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Merkava-4-tank-67.jpg/960px-Merkava-4-tank-67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/merkava-mk-4.webp"
   },
   {
     "name": "K2 Black Panther",
@@ -165,7 +165,7 @@
     "armament": "120mm CN08 L/55 smoothbore gun with autoloader, 12.7mm K6, 7.62mm coax",
     "description": "The K2 Black Panther is one of the most advanced tanks in service, with hydropneumatic suspension that lets it kneel and tilt to aim over terrain.",
     "admin_note": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/K2_Black_Panther_%2815373704976%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    "image_url": "vehicles/k2-black-panther.webp"
   },
   {
     "name": "Type 10",
@@ -179,7 +179,7 @@
     "armament": "120mm L/44 smoothbore gun with autoloader, 12.7mm M2, 7.62mm coax",
     "description": "The Type 10 is a lightweight Japanese main battle tank with modular ceramic armour and a C4I network system, designed for mobility on Japan's roads and bridges.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Type10MBT.jpg/960px-Type10MBT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/type-10.webp"
   },
   {
     "name": "Type 99A",
@@ -193,7 +193,7 @@
     "armament": "125mm ZPT-98 smoothbore gun with autoloader, 12.7mm QJC-88, 7.62mm coax",
     "description": "The Type 99A is the most capable main battle tank of the Chinese People's Liberation Army, fitted with composite and reactive armour and a laser warning system.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/ZTZ-99A_tank_front_right_20170902.jpg/960px-ZTZ-99A_tank_front_right_20170902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/type-99a.webp"
   },
   {
     "name": "T-14 Armata",
@@ -207,7 +207,7 @@
     "armament": "125mm 2A82-1M smoothbore gun, 12.7mm Kord RWS, 7.62mm PKTM",
     "description": "The T-14 Armata is a Russian tank with an unmanned turret; its crew of three sits in an armoured capsule in the hull. Only a small number have been produced.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/VDayRehearsal05052016-28.jpg/960px-VDayRehearsal05052016-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-14-armata.webp"
   },
   {
     "name": "T-72B3",
@@ -221,7 +221,7 @@
     "armament": "125mm 2A46M-5 smoothbore gun, 12.7mm Kord, 7.62mm PKT",
     "description": "The T-72 is one of the most widely produced tanks in history. The B3 upgrade adds modern thermal sights and a better fire-control system to the 1970s Soviet design.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Alabino05042017-40.jpg/960px-Alabino05042017-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-72b3.webp"
   },
   {
     "name": "T-80BV",
@@ -235,7 +235,7 @@
     "armament": "125mm 2A46-2 smoothbore gun, 12.7mm NSVT, 7.62mm PKT",
     "description": "The T-80 was the first production tank to use a gas-turbine engine as its main powerplant, giving it high speed at the cost of heavy fuel consumption.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Russian_T-80BV.jpg/960px-Russian_T-80BV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-80bv.webp"
   },
   {
     "name": "T-55",
@@ -249,7 +249,7 @@
     "armament": "100mm D-10T2S rifled gun, 12.7mm DShK, 7.62mm SGMT",
     "description": "The T-54/T-55 series is the most-produced tank family in history, with tens of thousands built and service in more than 50 countries.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/T-55_4.jpg/960px-T-55_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-55.webp"
   },
   {
     "name": "M60A3 Patton",
@@ -263,7 +263,7 @@
     "armament": "105mm M68 rifled gun, 12.7mm M85, 7.62mm M240",
     "description": "The M60 was the US Army's main battle tank through most of the Cold War; the A3 variant added a laser rangefinder and thermal sights.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Left_side_view_of_M60A3_tank_during_Reforger_82.jpg/960px-Left_side_view_of_M60A3_tank_during_Reforger_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m60a3-patton.webp"
   },
   {
     "name": "Leopard 1A5",
@@ -277,7 +277,7 @@
     "armament": "105mm L7A3 rifled gun, 2x 7.62mm MG3",
     "description": "The Leopard 1 put mobility ahead of armour and became one of the most successful Western tanks of the Cold War, exported across Europe and beyond.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leopard_1A5.jpg/960px-Leopard_1A5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/leopard-1a5.webp"
   },
   {
     "name": "Chieftain Mk 10",
@@ -291,7 +291,7 @@
     "armament": "120mm L11A5 rifled gun, 12.7mm ranging MG, 2x 7.62mm MG",
     "description": "The Chieftain was the most heavily armed and armoured tank in NATO when it entered service in the 1960s, and it introduced a reclined driver position.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Chieftain_Mk.10_%E2%80%9803_EB_83%E2%80%99_%E2%80%9CCHARLES_BURNETT_III%E2%80%9D.jpg/960px-Chieftain_Mk.10_%E2%80%9803_EB_83%E2%80%99_%E2%80%9CCHARLES_BURNETT_III%E2%80%9D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/chieftain-mk-10.webp"
   },
   {
     "name": "Centurion",
@@ -305,7 +305,7 @@
     "armament": "105mm L7 rifled gun (later marks), 7.62mm coax",
     "description": "The Centurion was one of the most successful post-war tank designs, serving in conflicts from Korea to the Middle East for more than 50 years.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Centurion_cfb_borden_1.JPG/960px-Centurion_cfb_borden_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/centurion.webp"
   },
   {
     "name": "Arjun Mk 1A",
@@ -319,7 +319,7 @@
     "armament": "120mm rifled gun, 12.7mm AA MG, 7.62mm coax",
     "description": "The Arjun is India's domestically developed main battle tank; the Mk 1A adds dozens of upgrades to firepower, mobility, and protection.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Arjun_Mk.1A.jpg/960px-Arjun_Mk.1A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/arjun-mk-1a.webp"
   },
   {
     "name": "Altay",
@@ -333,7 +333,7 @@
     "armament": "120mm L/55 smoothbore gun, 12.7mm RWS, 7.62mm coax",
     "description": "The Altay is Turkey's new-generation main battle tank, developed with South Korean assistance and based on K2 technology.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Altay_Tank.jpg/960px-Altay_Tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/altay.webp"
   },
   {
     "name": "C1 Ariete",
@@ -347,7 +347,7 @@
     "armament": "120mm OTO Melara smoothbore gun, 2x 7.62mm MG",
     "description": "The Ariete is the Italian Army's main battle tank, built by the Iveco–OTO Melara consortium and in service since 1995.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Italian_Army_-_4th_Tank_Regiment_-_Ariete_tanks_during_an_exercise_at_Capo_Teulada_October_2022.jpg/960px-Italian_Army_-_4th_Tank_Regiment_-_Ariete_tanks_during_an_exercise_at_Capo_Teulada_October_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/c1-ariete.webp"
   },
   {
     "name": "Stridsvagn 122",
@@ -361,7 +361,7 @@
     "armament": "120mm L/44 smoothbore gun, 2x 7.62mm MG",
     "description": "The Stridsvagn 122 is a Swedish Leopard 2 variant with extra armour and a command-and-control system tailored to the Swedish Army.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Strv122_3_cropped.jpg/960px-Strv122_3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/stridsvagn-122.webp"
   },
   {
     "name": "PT-91 Twardy",
@@ -375,7 +375,7 @@
     "armament": "125mm 2A46 smoothbore gun, 12.7mm NSVT, 7.62mm PKT",
     "description": "The PT-91 Twardy is a Polish development of the T-72M1, adding ERAWA explosive reactive armour and a modernised fire-control system.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/PT91_MSPO15_DSC02773.JPG/960px-PT91_MSPO15_DSC02773.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/pt-91-twardy.webp"
   },
   {
     "name": "T-84 Oplot-M",
@@ -389,7 +389,7 @@
     "armament": "125mm KBA-3 smoothbore gun, 12.7mm KT-12.7, 7.62mm coax",
     "description": "The Oplot-M is Ukraine's most advanced tank, developed from the T-80UD with a welded turret, Duplet reactive armour, and a diesel engine.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/BM_Oplot%2C_Kyiv_2018%2C_04.jpg/960px-BM_Oplot%2C_Kyiv_2018%2C_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-84-oplot-m.webp"
   },
   {
     "name": "Al-Khalid",
@@ -403,7 +403,7 @@
     "armament": "125mm smoothbore gun with autoloader, 12.7mm AA MG, 7.62mm coax",
     "description": "The Al-Khalid was jointly developed by Pakistan and China and serves as a mainstay of the Pakistan Army's armoured corps.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Al-Khalid_IDEAS_2012.jpg/960px-Al-Khalid_IDEAS_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/al-khalid.webp"
   },
   {
     "name": "M4A3E8 Sherman",
@@ -417,7 +417,7 @@
     "armament": "76mm M1 gun, 12.7mm M2, 2x 7.62mm M1919",
     "description": "The M4 Sherman was the most widely used Allied tank of WWII. The \"Easy Eight\" variant added a longer 76mm gun and horizontal volute spring suspension.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/M4A3E8.jpg/960px-M4A3E8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m4a3e8-sherman.webp"
   },
   {
     "name": "T-34-85",
@@ -431,7 +431,7 @@
     "armament": "85mm ZiS-S-53 gun, 2x 7.62mm DT",
     "description": "The T-34 combined sloped armour, a powerful gun, and ease of production. The T-34-85 up-gunned version became the backbone of Soviet armoured forces in 1944–45.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tank_T-34.JPG/960px-Tank_T-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/t-34-85.webp"
   },
   {
     "name": "Panther Ausf. G",
@@ -445,7 +445,7 @@
     "armament": "75mm KwK 42 L/70 gun, 2x 7.92mm MG 34",
     "description": "The Panther was Germany's answer to the T-34, pairing a high-velocity 75mm gun with thick sloped frontal armour.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Panther_Ausf.G_%2822750387779%29.jpg/960px-Panther_Ausf.G_%2822750387779%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/panther-ausf-g.webp"
   },
   {
     "name": "Panzer IV Ausf. H",
@@ -459,7 +459,7 @@
     "armament": "75mm KwK 40 L/48 gun, 2x 7.92mm MG 34",
     "description": "The Panzer IV was the only German tank to stay in production for the whole war, adapting from infantry support to a capable anti-tank role.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Panzerkampfwagen_IV_Ausf_H.jpg/960px-Panzerkampfwagen_IV_Ausf_H.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/panzer-iv-ausf-h.webp"
   },
   {
     "name": "Cromwell",
@@ -473,7 +473,7 @@
     "armament": "75mm OQF gun, 2x 7.92mm Besa MG",
     "description": "The Cromwell was one of the fastest tanks of WWII thanks to its Rolls-Royce Meteor engine, derived from the Merlin aero engine.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cromwell_%28A27M%29_front-right_2017_Bovington.jpg/960px-Cromwell_%28A27M%29_front-right_2017_Bovington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/cromwell.webp"
   },
   {
     "name": "Type 97 Chi-Ha",
@@ -487,7 +487,7 @@
     "armament": "57mm Type 97 gun, 2x 7.7mm Type 97 MG",
     "description": "The Type 97 Chi-Ha was the most widely produced Japanese medium tank of WWII, used across China, the Pacific, and Southeast Asia.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Type_97_Chi-Ha_in_the_Great_Patriotic_War_Museum_5-jun-2014.jpg/960px-Type_97_Chi-Ha_in_the_Great_Patriotic_War_Museum_5-jun-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/type-97-chi-ha.webp"
   },
   {
     "name": "Tiger II",
@@ -501,7 +501,7 @@
     "armament": "88mm KwK 43 L/71 gun, 2x 7.92mm MG 34",
     "description": "The Tiger II (\"King Tiger\") combined the long 88mm gun with heavily sloped armour, but its weight made it unreliable and fuel-hungry.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiger_II_104_Bovington_noBG.jpg/960px-Tiger_II_104_Bovington_noBG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/tiger-ii.webp"
   },
   {
     "name": "IS-2",
@@ -515,7 +515,7 @@
     "armament": "122mm D-25T gun, 12.7mm DShK, 3x 7.62mm DT",
     "description": "The IS-2 was a Soviet breakthrough tank whose 122mm gun was designed to knock out fortifications and German heavy tanks alike.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/IS-2_heavy_tank%2C_Polish_Army_open-air_Museum%2C_Warsaw%2C_Poland.jpg/960px-IS-2_heavy_tank%2C_Polish_Army_open-air_Museum%2C_Warsaw%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/is-2.webp"
   },
   {
     "name": "KV-1",
@@ -529,7 +529,7 @@
     "armament": "76.2mm ZiS-5 gun, 3x 7.62mm DT",
     "description": "The KV-1 was nearly immune to German anti-tank guns in 1941, and a single KV could hold up entire columns during the early months of Operation Barbarossa.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%D0%9A%D0%92-1_%D1%83_%D0%B4%D0%B8%D0%BE%D1%80%D0%B0%D0%BC%D1%8B_%C2%AB%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%B4%D1%8B_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%C2%BB._%D0%92%D0%B8%D0%B4_%D1%81%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0.JPG/960px-%D0%9A%D0%92-1_%D1%83_%D0%B4%D0%B8%D0%BE%D1%80%D0%B0%D0%BC%D1%8B_%C2%AB%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%B4%D1%8B_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%C2%BB._%D0%92%D0%B8%D0%B4_%D1%81%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/kv-1.webp"
   },
   {
     "name": "Churchill Mk VII",
@@ -543,7 +543,7 @@
     "armament": "75mm OQF gun, 2x 7.92mm Besa MG",
     "description": "The Churchill was a heavily armoured British infantry tank that could climb steep terrain, and it formed the basis of many specialist engineering vehicles.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/A22F_Churchill_VII_%E2%80%98T173250%E2%80%99_-_IWM_Duxford.jpg/960px-A22F_Churchill_VII_%E2%80%98T173250%E2%80%99_-_IWM_Duxford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/churchill-mk-vii.webp"
   },
   {
     "name": "M26 Pershing",
@@ -557,7 +557,7 @@
     "armament": "90mm M3 gun, 12.7mm M2, 2x 7.62mm M1919",
     "description": "The M26 Pershing arrived in the last months of WWII and became the basis for the US Patton tank series.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/M26_Pershing_front-left_2017_Bovington.jpg/960px-M26_Pershing_front-left_2017_Bovington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m26-pershing.webp"
   },
   {
     "name": "M24 Chaffee",
@@ -571,7 +571,7 @@
     "armament": "75mm M6 gun, 12.7mm M2, 2x 7.62mm M1919",
     "description": "The M24 Chaffee replaced the M3/M5 Stuart, adding a 75mm gun while keeping the speed a reconnaissance tank needs.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/M24_Chaffee_tankfest_2023.JPG/960px-M24_Chaffee_tankfest_2023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m24-chaffee.webp"
   },
   {
     "name": "M3 Stuart",
@@ -585,7 +585,7 @@
     "armament": "37mm M6 gun, 3x 7.62mm M1919",
     "description": "The M3 Stuart was a fast, reliable light tank supplied to Allied forces around the world. British crews nicknamed it the \"Honey\".",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Stuart_tankfest_2023.JPG/960px-Stuart_tankfest_2023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m3-stuart.webp"
   },
   {
     "name": "PT-76",
@@ -599,7 +599,7 @@
     "armament": "76.2mm D-56T gun, 7.62mm SGMT",
     "description": "The PT-76 is an amphibious light tank that swims with water jets. It saw action from Vietnam to the Indo-Pakistani wars.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Verkhnyaya_Pyshma_Tank_Museum_2012_0181.jpg/960px-Verkhnyaya_Pyshma_Tank_Museum_2012_0181.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/pt-76.webp"
   },
   {
     "name": "M551 Sheridan",
@@ -613,7 +613,7 @@
     "armament": "152mm M81 gun/launcher (MGM-51 Shillelagh), 12.7mm M2, 7.62mm coax",
     "description": "The M551 Sheridan was an air-droppable light tank whose 152mm gun could fire both conventional shells and guided missiles.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Yuma_Proving_Ground%2C_Arizona_%2842188342504%29.jpg/960px-Yuma_Proving_Ground%2C_Arizona_%2842188342504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m551-sheridan.webp"
   },
   {
     "name": "FV101 Scorpion",
@@ -627,7 +627,7 @@
     "armament": "76mm L23A1 gun, 7.62mm L43A1 coax",
     "description": "The Scorpion holds the record as the fastest production tank. It was light enough to be airlifted and used aluminium armour.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Scorpion_CRVT_%284119399295%29.jpg/960px-Scorpion_CRVT_%284119399295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/fv101-scorpion.webp"
   },
   {
     "name": "ZTQ-15",
@@ -641,7 +641,7 @@
     "armament": "105mm rifled gun, 12.7mm HMG, 7.62mm coax",
     "description": "The ZTQ-15 (Type 15) light tank was designed for high-altitude and rugged terrain such as the Tibetan Plateau, where heavy tanks struggle.",
     "admin_note": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/VT-5_Light_Tank_2018.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    "image_url": "vehicles/ztq-15.webp"
   },
   {
     "name": "M10 Booker",
@@ -655,7 +655,7 @@
     "armament": "105mm M35 rifled gun, 12.7mm M2, 7.62mm coax",
     "description": "The M10 Booker was a US Army infantry-support vehicle developed under the Mobile Protected Firepower program. The Army cancelled it in 2025.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/M10_Booker_at_its_unveiling_June_2023_-_7.jpg/960px-M10_Booker_at_its_unveiling_June_2023_-_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m10-booker.webp"
   },
   {
     "name": "Jagdpanther",
@@ -669,7 +669,7 @@
     "armament": "88mm Pak 43/3 L/71 gun, 7.92mm MG 34",
     "description": "The Jagdpanther mounted the Tiger II's 88mm gun on a Panther chassis and is often regarded as one of the best tank destroyers of the war.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Jagdpanther_front-right_2017_Bovington.jpg/960px-Jagdpanther_front-right_2017_Bovington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/jagdpanther.webp"
   },
   {
     "name": "StuG III Ausf. G",
@@ -683,7 +683,7 @@
     "armament": "75mm StuK 40 L/48 gun, 7.92mm MG 34",
     "description": "The StuG III was Germany's most-produced fully tracked armoured fighting vehicle of WWII. Its low profile made it an effective assault gun and tank hunter.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SNC15697_%285853637442%29_b.jpg/960px-SNC15697_%285853637442%29_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/stug-iii-ausf-g.webp"
   },
   {
     "name": "M18 Hellcat",
@@ -697,7 +697,7 @@
     "armament": "76mm M1A1 gun, 12.7mm M2",
     "description": "The M18 Hellcat was the fastest tracked armoured vehicle of WWII, sacrificing armour for speed and ambush tactics.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/M18_hellcat_side.jpg/960px-M18_hellcat_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m18-hellcat.webp"
   },
   {
     "name": "SU-100",
@@ -711,7 +711,7 @@
     "armament": "100mm D-10S gun",
     "description": "The SU-100 put a powerful 100mm gun on the T-34 chassis and remained in service with some armies decades after WWII.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Su-100_-_TankBiathlon2013-07.jpg/960px-Su-100_-_TankBiathlon2013-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/su-100.webp"
   },
   {
     "name": "B1 Centauro",
@@ -725,7 +725,7 @@
     "armament": "105mm L/52 rifled gun, 2x 7.62mm MG",
     "description": "The Centauro is an eight-wheeled tank destroyer that pioneered the concept of a wheeled vehicle carrying a tank-calibre gun.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Centauro01.JPEG/960px-Centauro01.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/b1-centauro.webp"
   },
   {
     "name": "2S25 Sprut-SD",
@@ -739,7 +739,7 @@
     "armament": "125mm 2A75 smoothbore gun, 7.62mm PKT",
     "description": "The Sprut-SD is an amphibious, air-droppable tank destroyer for Russian airborne forces, armed with a full-size 125mm tank gun.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2008_Moscow_Victory_Day_Parade_%2859-18%29.jpg/960px-2008_Moscow_Victory_Day_Parade_%2859-18%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/2s25-sprut-sd.webp"
   },
   {
     "name": "CV90",
@@ -753,7 +753,7 @@
     "armament": "40mm Bofors L/70 autocannon (CV9040), 7.62mm coax",
     "description": "The CV90 family was designed for Nordic winters and is now operated by many European armies in a wide range of variants.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Stridsfordon_90_Revinge_2012-2.jpg/960px-Stridsfordon_90_Revinge_2012-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/cv90.webp"
   },
   {
     "name": "Puma",
@@ -767,7 +767,7 @@
     "armament": "30mm MK30-2/ABM autocannon, 5.56mm MG4, Spike-LR ATGM",
     "description": "The Puma is one of the most heavily protected infantry fighting vehicles in the world, with modular armour packages and a remote-controlled turret.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/IFV_Puma_2015_%2819727694195%29.jpg/960px-IFV_Puma_2015_%2819727694195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/puma.webp"
   },
   {
     "name": "Marder 1A3",
@@ -781,7 +781,7 @@
     "armament": "20mm Rh 202 autocannon, 7.62mm MG3, MILAN ATGM",
     "description": "The Marder was the first infantry fighting vehicle fielded by a NATO army and served the Bundeswehr for five decades.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/IL%C3%9C_der_Bundeswehr_am_24.09.2012_--_Marder_AT.jpg/960px-IL%C3%9C_der_Bundeswehr_am_24.09.2012_--_Marder_AT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/marder-1a3.webp"
   },
   {
     "name": "FV510 Warrior",
@@ -795,7 +795,7 @@
     "armament": "30mm L21A1 RARDEN cannon, 7.62mm L94A1 chain gun",
     "description": "The Warrior has been the British Army's tracked infantry fighting vehicle since 1988 and saw extensive service in the Gulf, the Balkans, and Iraq.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/ARMOURED_VEHICLE_FLEET_SUPPORT_CONTRACT_ANNOUNCED_%2845149221%29.jpg/960px-ARMOURED_VEHICLE_FLEET_SUPPORT_CONTRACT_ANNOUNCED_%2845149221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/fv510-warrior.webp"
   },
   {
     "name": "BMP-1",
@@ -809,7 +809,7 @@
     "armament": "73mm 2A28 Grom gun, 9M14 Malyutka ATGM, 7.62mm PKT",
     "description": "The BMP-1 was the world's first mass-produced infantry fighting vehicle. It let troops fight from inside the vehicle under armour.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/BMP-1_01.JPG/960px-BMP-1_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bmp-1.webp"
   },
   {
     "name": "BMP-2",
@@ -823,7 +823,7 @@
     "armament": "30mm 2A42 autocannon, 9M113 Konkurs ATGM, 7.62mm PKT",
     "description": "The BMP-2 replaced its predecessor's low-pressure gun with a rapid-fire 30mm autocannon that can engage helicopters and light vehicles.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Army2016demo-007.jpg/960px-Army2016demo-007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bmp-2.webp"
   },
   {
     "name": "VBCI",
@@ -837,7 +837,7 @@
     "armament": "25mm M811 autocannon, 7.62mm coax",
     "description": "The VBCI is a French eight-wheeled infantry fighting vehicle built for strategic mobility, and it has been deployed to Mali and Lebanon.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/VBCI%2C_nouvelles_couleurs_Arm%C3%A9e_de_Terre_%2814_juillet_2021%29_%284%29.jpg/960px-VBCI%2C_nouvelles_couleurs_Arm%C3%A9e_de_Terre_%2814_juillet_2021%29_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/vbci.webp"
   },
   {
     "name": "K21",
@@ -851,7 +851,7 @@
     "armament": "40mm K40 autocannon, 7.62mm coax, Hyungung ATGM",
     "description": "The K21 uses a composite hull to stay light enough to swim while carrying a powerful 40mm gun.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2ID_US-ROK_Combined_Division_conducts_joint_live_fire_exercise_for_Freedom_Shield_24_-_1_of_13.jpg/960px-2ID_US-ROK_Combined_Division_conducts_joint_live_fire_exercise_for_Freedom_Shield_24_-_1_of_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/k21.webp"
   },
   {
     "name": "ZBD-04A",
@@ -865,7 +865,7 @@
     "armament": "100mm gun/launcher, 30mm autocannon, 7.62mm coax",
     "description": "The ZBD-04 is a Chinese amphibious infantry fighting vehicle whose turret layout is inspired by the BMP-3.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/ZBD-04A_IFV_20170716.jpg/960px-ZBD-04A_IFV_20170716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/zbd-04a.webp"
   },
   {
     "name": "BMD-4M",
@@ -879,7 +879,7 @@
     "armament": "100mm 2A70 gun, 30mm 2A72 autocannon, 7.62mm PKT",
     "description": "The BMD-4M is an air-droppable infantry fighting vehicle for Russian airborne troops, sharing the BMP-3's heavy turret.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Army2016demo-013.jpg/960px-Army2016demo-013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bmd-4m.webp"
   },
   {
     "name": "Lynx KF41",
@@ -893,7 +893,7 @@
     "armament": "30mm or 35mm Wotan autocannon, 7.62mm coax, Spike-LR ATGM",
     "description": "The Rheinmetall Lynx is a modular infantry fighting vehicle chosen by Hungary and Italy, built to be reconfigured for different missions.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hungarian_Lynx_KF-41.jpg/960px-Hungarian_Lynx_KF-41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/lynx-kf41.webp"
   },
   {
     "name": "M113",
@@ -907,7 +907,7 @@
     "armament": "12.7mm M2 Browning",
     "description": "The M113 is the most widely used armoured fighting vehicle family ever, with more than 80,000 built in dozens of variants. The Philippine Army also operates it.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Hellenic_Army_-_M113_-_7210.jpg/960px-Hellenic_Army_-_M113_-_7210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m113.webp"
   },
   {
     "name": "BTR-80",
@@ -921,7 +921,7 @@
     "armament": "14.5mm KPVT, 7.62mm PKT",
     "description": "The BTR-80 is an eight-wheeled amphibious armoured personnel carrier that serves widely across the former Soviet Union and beyond.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Moscow_OMON_BTR-80_%281%29.jpg/960px-Moscow_OMON_BTR-80_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/btr-80.webp"
   },
   {
     "name": "BTR-82A",
@@ -935,7 +935,7 @@
     "armament": "30mm 2A72 autocannon, 7.62mm PKTM",
     "description": "The BTR-82A modernises the BTR-80 with a 30mm autocannon, spall liners, and improved night sights.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg/960px-2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/btr-82a.webp"
   },
   {
     "name": "Boxer",
@@ -949,7 +949,7 @@
     "armament": "12.7mm HMG or 40mm GMW grenade launcher (RWS)",
     "description": "The Boxer uses swappable mission modules on a common 8x8 drive chassis, so one platform can serve as a troop carrier, ambulance, or command post.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gepanzertes_Transportkraftfahrzeug_%28GTK%29_Boxer_in_Zeithain.jpg/960px-Gepanzertes_Transportkraftfahrzeug_%28GTK%29_Boxer_in_Zeithain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/boxer.webp"
   },
   {
     "name": "Patria AMV",
@@ -963,7 +963,7 @@
     "armament": "12.7mm RWS or 30mm turret",
     "description": "The Patria AMV is a modular Finnish 8x8 vehicle known for protection and off-road mobility, operated by more than ten countries.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pansarterr%C3%A4ngbil_360_Revinge_2015-7.jpg/960px-Pansarterr%C3%A4ngbil_360_Revinge_2015-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/patria-amv.webp"
   },
   {
     "name": "Namer",
@@ -977,7 +977,7 @@
     "armament": "12.7mm M2 or 30mm RWS, 7.62mm MG",
     "description": "The Namer is built on a Merkava tank chassis, which makes it one of the most heavily armoured troop carriers in the world.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_%288%29.jpg/960px-Flickr_-_Israel_Defense_Forces_-_13th_Battalion_of_the_Golani_Brigade_Holds_Drill_at_Golan_Heights_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/namer.webp"
   },
   {
     "name": "FV432",
@@ -991,7 +991,7 @@
     "armament": "7.62mm L7 GPMG",
     "description": "The FV432 has carried British infantry since the 1960s and remains in use as a mortar carrier, ambulance, and command vehicle.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/FV432_RAF_Duxford.jpg/960px-FV432_RAF_Duxford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/fv432.webp"
   },
   {
     "name": "TPz Fuchs",
@@ -1005,7 +1005,7 @@
     "armament": "7.62mm MG3",
     "description": "The Fuchs is an amphibious 6x6 transport best known in NBC reconnaissance roles, detecting nuclear, biological, and chemical hazards.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Transportpanzer_Fuchs_%28TPz_Fuchs%29_der_Bundeswehr_%2810579660405%29.jpg/960px-Transportpanzer_Fuchs_%28TPz_Fuchs%29_der_Bundeswehr_%2810579660405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/tpz-fuchs.webp"
   },
   {
     "name": "VAB",
@@ -1019,7 +1019,7 @@
     "armament": "12.7mm M2 or 7.62mm MG",
     "description": "The VAB (Véhicule de l'Avant Blindé) was the French Army's standard wheeled troop carrier for four decades.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Fin_de_d%C3%A9fil%C3%A9_14_juillet_2022%2C_Paris_Porte_d%27Orl%C3%A9ans_%281%29_04.jpg/960px-Fin_de_d%C3%A9fil%C3%A9_14_juillet_2022%2C_Paris_Porte_d%27Orl%C3%A9ans_%281%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/vab.webp"
   },
   {
     "name": "Sd.Kfz. 251",
@@ -1033,7 +1033,7 @@
     "armament": "2x 7.92mm MG 34/42",
     "description": "The Sd.Kfz. 251 half-track carried German panzergrenadiers so they could keep pace with the tanks, and it was built in more than 20 variants.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/SdKfz_251_Ausf_D_1.jpg/960px-SdKfz_251_Ausf_D_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/sd-kfz-251.webp"
   },
   {
     "name": "M3 Half-track",
@@ -1047,7 +1047,7 @@
     "armament": "12.7mm M2, 7.62mm M1919",
     "description": "The M3 Half-track was the main American armoured troop carrier of WWII and was supplied in large numbers to Allied forces.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/M-3A1_Half-track_APC.jpg/960px-M-3A1_Half-track_APC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m3-half-track.webp"
   },
   {
     "name": "Universal Carrier",
@@ -1061,7 +1061,7 @@
     "armament": ".303 Bren LMG or Boys anti-tank rifle",
     "description": "The Universal Carrier (Bren Carrier) is the most-produced armoured fighting vehicle in history, with around 113,000 built.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Universal_Carrier_%282%29.jpg/960px-Universal_Carrier_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/universal-carrier.webp"
   },
   {
     "name": "MaxxPro MRAP",
@@ -1075,7 +1075,7 @@
     "armament": "12.7mm M2 or 40mm Mk19 (CROWS)",
     "description": "The MaxxPro is a mine-resistant ambush-protected vehicle with a V-shaped hull that deflects blasts from roadside bombs.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Navistar_MaxxPro.JPG/960px-Navistar_MaxxPro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/maxxpro-mrap.webp"
   },
   {
     "name": "Bushmaster PMV",
@@ -1089,7 +1089,7 @@
     "armament": "7.62mm or 12.7mm MG",
     "description": "The Bushmaster is an Australian protected mobility vehicle credited with saving many lives in Afghanistan, and it has been exported to several armies.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dutch_Bushmaster_with_remote_turret_2008.jpg/960px-Dutch_Bushmaster_with_remote_turret_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bushmaster-pmv.webp"
   },
   {
     "name": "PzH 2000",
@@ -1103,7 +1103,7 @@
     "armament": "155mm L/52 howitzer, 7.62mm MG3",
     "description": "The Panzerhaubitze 2000 can fire three rounds in under ten seconds and put several shells on one target at the same moment (MRSI).",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Lithuanian_PzH_2000_%282%29.jpg/960px-Lithuanian_PzH_2000_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/pzh-2000.webp"
   },
   {
     "name": "K9 Thunder",
@@ -1117,7 +1117,7 @@
     "armament": "155mm L/52 howitzer, 12.7mm K6",
     "description": "The K9 Thunder is the world's best-selling self-propelled howitzer, operated by more than ten countries.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/K9_K%C3%B5u.jpg/960px-K9_K%C3%B5u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/k9-thunder.webp"
   },
   {
     "name": "CAESAR",
@@ -1131,7 +1131,7 @@
     "armament": "155mm L/52 truck-mounted howitzer",
     "description": "CAESAR mounts a 155mm howitzer on a 6x6 truck, so it can fire and move away within minutes and can be airlifted by a C-130.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/French_Caesar_self-propelled_howitzer_in_Iraq.jpg/960px-French_Caesar_self-propelled_howitzer_in_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/caesar.webp"
   },
   {
     "name": "2S19 Msta-S",
@@ -1145,7 +1145,7 @@
     "armament": "152mm 2A64 howitzer, 12.7mm NSVT",
     "description": "The 2S19 Msta-S is the main heavy self-propelled howitzer of the Russian Army, built on a hull that combines T-72 and T-80 components.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/AlabinoTraining0904-34.jpg/960px-AlabinoTraining0904-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/2s19-msta-s.webp"
   },
   {
     "name": "2S3 Akatsiya",
@@ -1159,7 +1159,7 @@
     "armament": "152mm 2A33 howitzer, 7.62mm PKT",
     "description": "The 2S3 Akatsiya was the Soviet answer to the M109 and remains in service across many former Warsaw Pact armies.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2S3_Akatsiya_3261.jpg/960px-2S3_Akatsiya_3261.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/2s3-akatsiya.webp"
   },
   {
     "name": "AS-90",
@@ -1173,7 +1173,7 @@
     "armament": "155mm L/39 howitzer, 12.7mm HMG",
     "description": "The AS-90 was the British Army's standard self-propelled gun from 1993 until it began being replaced, with many units donated to Ukraine.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/AS90_%2852931434897%29.jpg/960px-AS90_%2852931434897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/as-90.webp"
   },
   {
     "name": "Archer",
@@ -1187,7 +1187,7 @@
     "armament": "155mm L/52 FH77BW howitzer, 12.7mm RWS",
     "description": "Archer is a fully automated wheeled howitzer that can fire its first round within 30 seconds of stopping and be moving again moments later.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Archerside_commons.jpg/960px-Archerside_commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/archer.webp"
   },
   {
     "name": "M7 Priest",
@@ -1201,7 +1201,7 @@
     "armament": "105mm M2A1 howitzer, 12.7mm M2",
     "description": "The M7 Priest got its name from its pulpit-like machine-gun ring and provided mobile artillery support to Allied armoured divisions.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/M7_Priest_at_APG.jpg/960px-M7_Priest_at_APG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m7-priest.webp"
   },
   {
     "name": "Wespe",
@@ -1215,7 +1215,7 @@
     "armament": "105mm leFH 18/2 howitzer",
     "description": "The Wespe mounted a 105mm howitzer on an obsolete Panzer II chassis, giving panzer divisions mobile light artillery.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SdKfz124.jpg/960px-SdKfz124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/wespe.webp"
   },
   {
     "name": "M142 HIMARS",
@@ -1229,7 +1229,7 @@
     "armament": "6x GMLRS guided rockets or 1x ATACMS missile",
     "description": "HIMARS is a wheeled rocket launcher that fires precision-guided rockets and relocates within minutes, making it hard to counter.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/HIMARS_-_missile_launched.jpg/960px-HIMARS_-_missile_launched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m142-himars.webp"
   },
   {
     "name": "M270 MLRS",
@@ -1243,7 +1243,7 @@
     "armament": "12x 227mm rockets or 2x ATACMS missiles",
     "description": "The M270 is a tracked multiple rocket launcher that can saturate a large area or fire precision rockets, operated by many NATO armies.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg/960px-M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m270-mlrs.webp"
   },
   {
     "name": "BM-21 Grad",
@@ -1257,7 +1257,7 @@
     "armament": "40x 122mm rockets",
     "description": "The BM-21 Grad is the world's most widespread multiple rocket launcher; it can fire all 40 rockets in about 20 seconds.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Russian_BM-21_Grad_in_Saint_Petersburg.JPG/960px-Russian_BM-21_Grad_in_Saint_Petersburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bm-21-grad.webp"
   },
   {
     "name": "BM-13 Katyusha",
@@ -1271,7 +1271,7 @@
     "armament": "16x 132mm M-13 rockets",
     "description": "The Katyusha rocket launcher was feared for its sudden, howling salvos. German troops nicknamed it \"Stalin's organ\".",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Katyusha_Rocket_Launcher_-_Artillery_Museum_-_St._Petersburg_-_Russia.jpg/960px-Katyusha_Rocket_Launcher_-_Artillery_Museum_-_St._Petersburg_-_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/bm-13-katyusha.webp"
   },
   {
     "name": "LAV-25",
@@ -1285,7 +1285,7 @@
     "armament": "25mm M242 Bushmaster, 2x 7.62mm M240",
     "description": "The LAV-25 is the US Marine Corps' amphibious light armoured reconnaissance vehicle, prized for speed and range.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/LAV-25A2.jpg/960px-LAV-25A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/lav-25.webp"
   },
   {
     "name": "FV107 Scimitar",
@@ -1299,7 +1299,7 @@
     "armament": "30mm L21 RARDEN cannon, 7.62mm L37A1",
     "description": "The Scimitar is a tracked reconnaissance vehicle from the CVR(T) family, used by British reconnaissance units for decades.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Scimitar_Light_Tank_MOD_45149231.jpg/960px-Scimitar_Light_Tank_MOD_45149231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/fv107-scimitar.webp"
   },
   {
     "name": "Fennek",
@@ -1313,7 +1313,7 @@
     "armament": "7.62mm MG3, 12.7mm HMG or 40mm GMW",
     "description": "The Fennek is a low-profile scout car with a mast-mounted sensor suite that can observe targets from long range while staying hidden.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Fennek-highres.jpg/960px-Fennek-highres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/fennek.webp"
   },
   {
     "name": "BRDM-2",
@@ -1327,7 +1327,7 @@
     "armament": "14.5mm KPVT, 7.62mm PKT",
     "description": "The BRDM-2 is an amphibious scout car with retractable belly wheels for crossing trenches, and it has been exported to dozens of countries.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/BRDM-2_%281964%29_owned_by_James_Stewart_pic1.JPG/960px-BRDM-2_%281964%29_owned_by_James_Stewart_pic1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/brdm-2.webp"
   },
   {
     "name": "AMX-10 RC",
@@ -1341,7 +1341,7 @@
     "armament": "105mm F2 gun, 7.62mm coax",
     "description": "The AMX-10 RC is a six-wheeled armoured car with tank-like firepower, used for reconnaissance and fire support.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/AMX-10_RC%2C_nouvelles_couleurs_Arm%C3%A9e_de_terre_%2814_juillet_2021%29_%282%29.jpg/960px-AMX-10_RC%2C_nouvelles_couleurs_Arm%C3%A9e_de_terre_%2814_juillet_2021%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/amx-10-rc.webp"
   },
   {
     "name": "EBRC Jaguar",
@@ -1355,7 +1355,7 @@
     "armament": "40mm CTA40 cannon, 7.62mm RWS, 2x Akeron MP missiles",
     "description": "The Jaguar replaces the AMX-10 RC as part of France's SCORPION programme, networked with other vehicles to share targets in real time.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/E20iPMrXMAUFTsh.jpg/960px-E20iPMrXMAUFTsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/ebrc-jaguar.webp"
   },
   {
     "name": "Sd.Kfz. 234/2 Puma",
@@ -1369,7 +1369,7 @@
     "armament": "50mm KwK 39/1 gun, 7.92mm MG 42",
     "description": "The Puma was an eight-wheeled armoured car with an exceptional range for WWII and a 50mm gun that let it fight its way out of trouble.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sd.Kfz_234-2_side_view.jpg/960px-Sd.Kfz_234-2_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/sd-kfz-234-2-puma.webp"
   },
   {
     "name": "M8 Greyhound",
@@ -1383,7 +1383,7 @@
     "armament": "37mm M6 gun, 12.7mm M2, 7.62mm M1919",
     "description": "The M8 Greyhound was a fast six-wheeled armoured car used by US cavalry reconnaissance units in Europe and the Pacific.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/M8_Greyhound_U.S._Army_Armor_%26_Cavalry_Collection_2023.jpg/960px-M8_Greyhound_U.S._Army_Armor_%26_Cavalry_Collection_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m8-greyhound.webp"
   },
   {
     "name": "Flakpanzer Gepard",
@@ -1397,7 +1397,7 @@
     "armament": "2x 35mm Oerlikon KDA autocannons",
     "description": "The Gepard uses twin radar-guided 35mm guns on a Leopard 1 hull, and it has recently proved effective against drones and cruise missiles.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/010_FZD_030.jpg/960px-010_FZD_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/flakpanzer-gepard.webp"
   },
   {
     "name": "ZSU-23-4 Shilka",
@@ -1411,7 +1411,7 @@
     "armament": "4x 23mm 2A7 autocannons",
     "description": "The Shilka pairs four radar-guided 23mm cannons, and it was feared by low-flying aircraft in Vietnam and the Middle East.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%D0%97%D0%A1%D0%A3-23-4_%C2%AB%D0%A8%D0%B8%D0%BB%D0%BA%D0%B0%C2%BB_%D0%B2_%D0%9C%D1%83%D0%B7%D0%B5%D0%B5_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8.jpg/960px-%D0%97%D0%A1%D0%A3-23-4_%C2%AB%D0%A8%D0%B8%D0%BB%D0%BA%D0%B0%C2%BB_%D0%B2_%D0%9C%D1%83%D0%B7%D0%B5%D0%B5_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/zsu-23-4-shilka.webp"
   },
   {
     "name": "2K22 Tunguska",
@@ -1425,7 +1425,7 @@
     "armament": "2x 30mm 2A38M autocannons, 8x 9M311 SAM",
     "description": "The Tunguska combines guns and missiles on one tracked chassis to protect armoured columns from helicopters and aircraft.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2S6M1_Tunguska-M1_SAM-system_at_MAKS-2011_-_side.jpg/960px-2S6M1_Tunguska-M1_SAM-system_at_MAKS-2011_-_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/2k22-tunguska.webp"
   },
   {
     "name": "Pantsir-S1",
@@ -1439,7 +1439,7 @@
     "armament": "2x 30mm 2A38M autocannons, 12x 57E6 SAM",
     "description": "The Pantsir-S1 is a truck-mounted gun-missile system that provides short-range defence against aircraft, drones, and precision munitions.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-05%29.jpg/960px-MAKS_Airshow_2013_%28Ramenskoye_Airport%2C_Russia%29_%28521-05%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/pantsir-s1.webp"
   },
   {
     "name": "9K330 Tor",
@@ -1453,7 +1453,7 @@
     "armament": "8x 9M330 surface-to-air missiles",
     "description": "The Tor is an all-weather, short-range missile system that can detect and engage several targets while on the move.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tor-M1_SAM_%282%29.jpg/960px-Tor-M1_SAM_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/9k330-tor.webp"
   },
   {
     "name": "AN/TWQ-1 Avenger",
@@ -1467,7 +1467,7 @@
     "armament": "8x FIM-92 Stinger missiles, 12.7mm M3P",
     "description": "The Avenger mounts a turret with eight Stinger missiles on a Humvee to protect troops from low-flying aircraft and drones.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Avenger_missile.jpg/960px-Avenger_missile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/an-twq-1-avenger.webp"
   },
   {
     "name": "Stryker M-SHORAD",
@@ -1481,7 +1481,7 @@
     "armament": "30mm XM914 cannon, Stinger and Hellfire missiles, 7.62mm MG",
     "description": "M-SHORAD restores short-range air defence to US armoured units, mounting a gun and missile turret on the Stryker chassis.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/M-SHORAD_Stryker.jpg/960px-M-SHORAD_Stryker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/stryker-m-shorad.webp"
   },
   {
     "name": "Flakpanzer IV Wirbelwind",
@@ -1495,7 +1495,7 @@
     "armament": "4x 20mm Flak 38 autocannons",
     "description": "The Wirbelwind (\"Whirlwind\") put a quad 20mm flak turret on a Panzer IV chassis to protect armoured units from Allied fighter-bombers.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Wirbelwind_CFB_Borden_4.jpg/960px-Wirbelwind_CFB_Borden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/flakpanzer-iv-wirbelwind.webp"
   },
   {
     "name": "M16 MGMC",
@@ -1509,7 +1509,7 @@
     "armament": "4x 12.7mm M2 (Maxson M45 quadmount)",
     "description": "The M16 half-track carried four .50-calibre machine guns and was nicknamed the \"meat chopper\" for its devastating ground-attack use.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/White-M16-MGMC-Half-Track.jpg/960px-White-M16-MGMC-Half-Track.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/m16-mgmc.webp"
   },
   {
     "name": "Willys MB Jeep",
@@ -1523,7 +1523,7 @@
     "armament": "7.62mm M1919 on pintle mount (optional)",
     "description": "The Willys MB Jeep became a WWII icon. It could carry troops, tow guns, or serve as an ambulance, and it went on to inspire civilian 4x4s.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Covered_Willy%27s_jeep_Wings_Over_Wine_Country_2007.JPG/960px-Covered_Willy%27s_jeep_Wings_Over_Wine_Country_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/willys-mb-jeep.webp"
   },
   {
     "name": "Volkswagen Kübelwagen",
@@ -1537,7 +1537,7 @@
     "armament": "7.92mm MG 34 (optional)",
     "description": "The Kübelwagen was a light, air-cooled military car based on the Volkswagen Beetle; its flat underside let it slide over mud and sand.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Victory_Show_Cosby_UK_06-09-2015_WW2_re-enactment_Military_Vehicles_restored_originals_zaphad1_Flickr_CCBY2.0_Volkswagen_K%C3%BCbelwagen_WH-472831_German_camp_etc_IMG_3934.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/volkswagen-kubelwagen.webp"
   },
   {
     "name": "HMMWV (Humvee)",
@@ -1551,7 +1551,7 @@
     "armament": "12.7mm M2, 40mm Mk19 or 7.62mm M240 (variant dependent)",
     "description": "The Humvee replaced the Jeep as the US military's light utility vehicle in the 1980s and has been built in dozens of configurations.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2015_MCAS_Beaufort_Air_Show_041215-M-CG676-161.jpg/960px-2015_MCAS_Beaufort_Air_Show_041215-M-CG676-161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/hmmwv-humvee.webp"
   },
   {
     "name": "Oshkosh JLTV",
@@ -1565,7 +1565,7 @@
     "armament": "12.7mm M2, 40mm Mk19 or 7.62mm M240 (CROWS)",
     "description": "The Joint Light Tactical Vehicle is replacing the Humvee, offering MRAP-level blast protection with far better off-road mobility.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/M1278_JLTV_Heavy_Guns_Carrier_%28JLTV-HGC%29.jpg/960px-M1278_JLTV_Heavy_Guns_Carrier_%28JLTV-HGC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/oshkosh-jltv.webp"
   },
   {
     "name": "GAZ Tigr",
@@ -1579,6 +1579,6 @@
     "armament": "7.62mm PKP or 12.7mm Kord (variant dependent)",
     "description": "The GAZ Tigr is a Russian high-mobility armoured utility vehicle widely used by the army, police, and special forces.",
     "admin_note": "",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Zajedni%C4%8Dka_ve%C5%BEba_72_brSO_VS_i_2_br_Specnaz_OSRF_-_GAZ_Tigr_-_05.jpg/960px-Zajedni%C4%8Dka_ve%C5%BEba_72_brSO_VS_i_2_br_Specnaz_OSRF_-_GAZ_Tigr_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    "image_url": "vehicles/gaz-tigr.webp"
   }
 ]
